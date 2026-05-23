@@ -1,0 +1,21 @@
+.nav-link {
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    background-color: red;
+
+}
+
+.main-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://miro.medium.com/1*OlgqUIhvl5-9dZISlZ2-yQ.jpeg");
+    background-attachment: fixed;
+    background-size: cover;
+}
